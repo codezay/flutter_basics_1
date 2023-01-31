@@ -17,3 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 
 follow the video: https://www.youtube.com/watch?v=C-fKAzdTrLU&t=899s
+
+## Build Command
+    flutter build apk --build-name=1.0 --build-number=1
